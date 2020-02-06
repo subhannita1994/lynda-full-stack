@@ -1,8 +1,15 @@
+<?php
+require_once("../private/initialize.php");
+
+
+?>
+
+
 <!doctype html>
 
 <html lang="en">
   <head>
-    <title></title>
+    <title>Globe Bank</title>
     <meta charset="utf-8">
   </head>
 
